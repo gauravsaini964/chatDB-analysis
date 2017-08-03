@@ -1,0 +1,121 @@
+21:36:06	 From Ankit : done
+21:36:09	 From Vineet Chauhan : done sir
+21:36:10	 From Harshit Thakur : done sir
+21:36:12	 From Rajesh : hogya 
+21:36:13	 From Shubham.is.here : bna liya hai
+21:36:14	 From Piyush Chaturvedi : sir installed and made the account
+21:36:15	 From Rohan luthra : not done sir 
+21:36:16	 From Rahul Yadav : done
+21:36:16	 From Ankit : account nd installation
+21:36:20	 From Shubham.is.here : install bhi kr liya
+21:36:21	 From Gaurav Thakur : not done yet
+21:36:21	 From Ankit : yup
+21:36:22	 From Rajesh : done
+21:36:25	 From Rishav : account aur install dono ho gaya
+21:36:26	 From Radhik : me
+21:36:34	 From sharique ahmed : id nahi bn ra h
+21:36:48	 From sharique ahmed : login nahi hora h
+21:36:55	 From Rahul Yadav : sir mai tha
+21:37:13	 From Resham Singh : organisation name kya likhu
+21:37:21	 From Rahul Yadav : Sir i m rahul
+21:37:30	 From Rahul Yadav : i asked the question
+21:37:36	 From Sudhanshu Shekhar Singh : i have a github accountand Git Bash desktop app..
+21:37:39	 From Sudhanshu Shekhar Singh : is that all i need
+21:38:07	 From Acadview Instructor to Acadview Instructor (Privately) : start recording
+21:38:09	 From Rajesh : hello everyone
+21:38:26	 From sharique ahmed : pta nahi sir
+21:38:46	 From sharique ahmed : maine usko skip kar diya h
+21:38:53	 From Resham Singh : but sir ye hill ni ra maang ra h 
+21:38:58	 From Diksha : whts going on?
+21:38:58	 From sharique ahmed : any problem???
+21:39:01	 From Resham Singh : organization name
+21:40:02	 From Rahul Yadav : sir screen share ni ho rhi
+21:41:01	 From Gaurav Thakur : lol
+21:41:09	 From Ankit : :P
+21:41:16	 From Shubham.is.here : haha.. kaun hai ye
+21:41:24	 From Rahul Yadav : kaun krr rha yeh
+21:41:30	 From Rajesh : kaun hai ye 
+21:41:40	 From Rajesh : stop doing this .....
+21:42:06	 From Rahul Yadav : sir function alredy bna rkha hai
+21:42:12	 From Sumit Pandey : doubt chal rha hai kisika ?
+21:42:31	 From Rohan luthra : kya kiya hai ye screen pe 
+21:43:04	 From Rajesh : painting ka competition nai hai yahan pr.... kaun he ye
+21:45:43	 From Piyush Chaturvedi : you have given the space between the function name and brckets
+21:45:59	 From Piyush Chaturvedi : that is the reason function is not created
+21:46:03	 From Ankit : yup right
+21:46:05	 From Ankit : space
+21:46:31	 From Ankit : srry
+21:46:33	 From Gaurav Thakur : haaha
+21:46:36	 From Ankit : mic not working
+21:46:40	 From Piyush Chaturvedi : sir i have given suggestion already
+21:46:45	 From Ankit : actually i was saying
+21:46:50	 From Rohan luthra : type krde ankit 
+21:46:50	 From Ankit : space given
+21:47:16	 From Shubham.is.here : i dont think night multiply hoga city k cost mein
+21:47:53	 From Rahul Yadav : vo cost hai
+21:47:58	 From Rahul Yadav : 1 night
+21:48:02	 From sharique ahmed : city not entered
+21:48:03	 From Rahul Yadav : for a night
+21:48:22	 From Piyush Chaturvedi : you should have multiplied it with the hotel_cost(night)either
+21:48:30	 From Shubham.is.here : night multiply nhi hoga
+21:48:41	 From Shubham.is.here : *night del karo chal jana chahiye
+21:50:13	 From Rohan luthra : sir you take look to group
+21:50:14	 From Rajesh : yes
+21:50:15	 From Shubham.is.here : yes
+21:50:15	 From Gaurav Thakur : yes
+21:50:17	 From Rahul Yadav : yes
+21:50:17	 From Diksha : ys
+21:50:18	 From Ankit : yup
+21:50:19	 From sharique ahmed : yup
+21:50:21	 From Ankita : yes sr
+21:50:36	 From Nikhil Chauhan : yes
+21:54:04	 From Nikhil Chauhan : hii
+21:54:06	 From Rahul Yadav : yes
+21:54:06	 From Nikhil Chauhan : yes
+21:54:06	 From Diksha : yup
+21:54:06	 From Ankita : yes
+21:54:07	 From Piyush Chaturvedi : yes
+21:54:07	 From Ankit :  yes
+21:54:08	 From Sudhanshu Shekhar Singh : yes
+21:54:10	 From sharique ahmed : yes
+21:54:10	 From Shubham.is.here : your screen is gone
+21:54:10	 From Diksha : yup
+21:54:25	 From Ankit : yup
+21:54:26	 From Rajesh : yes
+21:54:26	 From Rohan luthra : yes
+21:54:36	 From Ankit : yup
+21:54:48	 From Ankit : uptobox
+21:55:04	 From Rajesh : shubh shubh bolo sir
+21:56:08	 From Rahul Yadav : ohhh
+21:56:08	 From Diksha : nice
+21:56:10	 From Diksha : hahhaha
+21:56:19	 From sharique ahmed : hahaha
+21:56:26	 From Ankit : hehehe tab se start kia apne bhi ..
+21:56:27	 From Rajesh : han g sir :)
+21:56:27	 From Radhik : humm
+21:56:41	 From sharique ahmed : sorry for u 
+21:56:43	 From sharique ahmed : hahaha
+21:57:05	 From Rajesh : han g sir :)
+21:57:13	 From Ankit : cool
+21:57:37	 From Ankit : like?
+21:57:51	 From Rohan luthra : y 1 should store his code on hub
+21:58:08	 From Ankit : yup
+21:58:10	 From Rohan luthra : or on cloud security resons 
+21:58:22	 From Rohan luthra : yes 
+21:58:26	 From Rohan luthra : sir
+21:59:08	 From Rohan luthra : is it secure to store code on hub 
+21:59:22	 From Rohan luthra : ohk sir 
+22:01:06	 From Sumit Pandey : experimenting -  clear krna sir thoda
+22:03:38	 From Sumit Pandey : like a folder for our code
+22:05:51	 From Ankit : done
+22:06:48	 From Sudhanshu Shekhar Singh : Done
+22:06:49	 From Rajesh : done
+22:06:50	 From Piyush Chaturvedi : done
+22:06:50	 From Roshan Roy : done
+22:06:52	 From Ankita : DONE
+22:06:53	 From Ankit : done
+22:06:53	 From Harshit Thakur : donr
+22:06:56	 From Radhik : done
+22:07:00	 From Rishav : done
+22:07:01	 From Rajesh : DONE DONE
+22:07:11	 From sharique ahmed : done
