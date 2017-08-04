@@ -1,11 +1,18 @@
-from collections import Counter
-import pprint
+from collections import Counter, defaultdict
+from pprint import pprint as pp
 from fileparser import NAME_MSG, MSG_ONLY, x ,name_msg_filgen, message_only_filegen
+import urllib
+from wordcloud import WordCloud
+import matplotlib.pyplot as plot
 
-pp = pprint.PrettyPrinter(indent=4)
 # generate files
 name_msg_filgen(x)
 message_only_filegen(x)
+
+Students = []
+MESSAGE_DICT = []
+d = defaultdict(list)
+
 
 def total_question_asked():
     question_mark = {'?'}
@@ -44,21 +51,57 @@ def most_talkative():
     name_occurence_counter = Counter(chat_dict.keys())
     # pp.pprint(chat_dict)
 
-def createDictionary(filename):
-  file = open(filename)
-  contents = file.read()
-  print contents,"\n"
-  # data_list = [lines.split(",") for lines in contents.split("\n")]
-  # for line in data_list:
-  #   regNumber = line[0]
-  #   name = line[1]
-  #   phoneExtn = line[2]
-  #   carpark = line[3].strip()
-  #   details = (name,phoneExtn,carpark)
-  #   data_dict[regNumber] = details
-  # print data_dict,"\n"
-  # print data_dict.items(),"\n"
-  # print data_dict.values()
-  #
+# def createDictionary(filename):
+#     data_dict = {}
+#     file = open(filename)
+#     contents = file.read()
+#     # print contentsdata_list
+#     data_list = [lines.split(",") for lines in contents.split("\n")]
+#     # pp.pprint(data_list)
+#     for line in data_list:
+#         name = line[0]
+#         message = line[0:]
+#         details = (message)
+#         data_dict[name] = details
+#     pp.pprint(data_dict)
+#     # print data_dict, "\n"
+#     # print data_dict.items(), "\n"
+#     # print data_dict.values()
 
-createDictionary(NAME_MSG)
+def createDictionary(filename):
+    k,v = 0,0
+    with open(filename) as f:
+        for line in f:
+            if ":" in line:
+                k, v = line.rstrip().split(":")
+                d[k].extend(map(str.strip, v.split(",")) if v.strip() else [])
+            else:
+                d[k].append(line.rstrip())
+
+            Students.append(d.keys())
+
+    print "Total Student present in today's chat : %d" %(len(d.keys()))
+    print 'Student present today : %s' %(d.keys())
+
+
+
+
+
+
+def generate_wordcloud(filename):
+    with open(filename) as f:
+        data = f.read()
+
+    wordcloud = WordCloud(background_color='white',
+                          width=1080,
+                          height=1920).generate(data)
+    plot.figure()
+    plot.imshow(wordcloud, interpolation="bilinear")
+    plot.axis("off")
+    plot.savefig('cloud.png')
+    plot.show()
+
+
+# createDictionary(NAME_MSG)
+
+generate_wordcloud(MSG_ONLY)

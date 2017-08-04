@@ -1,148 +1,74 @@
 sir ek doubt clear karo mera
-
 Varun sir?
-
 Give me 5 minutes
-
 hey guys
-
 hii
-
-
-
+emoticon
 hi all
-
 hello sir
-
 hello sr
-
 print alice['quizzes']
-
 string use krro
-
-hello everyone 
-
+hello everyone emoticon
 “quizzes”
-
 helllo sir
-
 quotes me aayega
-
 print alice['quizzes'] 
-
 print alice["quizzes"]
-
 write like this
-
 hello sir
-
 whats going on
-
 hello everyone
-
 sir gir revise krado
-
 fine sir
-
 yes sir
-
 yes
-
 yes sir
-
 no prob.
-
 yes sir
-
 dophr
-
 theek hai
-
 not available
-
 3 o clock
-
 4 o'clock
-
-3:00
-
+emoticon
 3pm ?
-
 12
-
 12
-
 3 pm
-
 12?
-
 kya dophr kyaa??
-
 kal night mei nai possible sir
-
 koi baat nai i will watch tommorows video
-
 yes sir 
-
 3 times sir
-
 3 time
-
 i practiced
-
 2 times
-
 5, 10 baar
-
 1 baar practice kiya par poora samajh nahi aaya
-
 1 time
-
 sir i have done it but 10th step ke bad bhot problem aa rhi hai
-
 yes sir
-
 2 bar
-
 Part of the Whole --> sir ye b krwa do abi
-
 12 ?
-
 any time
-
 subah 11 bje k baad kabhi bhi kar lo
-
 yes
-
 cool
-
 yes sir 
-
 0k 
-
 hmm
-
 yes sr
-
 yupp
-
 ok
-
 Part of the Whole--> sir ye krwa do
-
 codecademy
-
 yes 
-
 students become teacher
-
 starting se
-
 no voice 
-
 check ur connection
-
 cos voice is comming
-
 even i had a problem there
-

@@ -15,10 +15,13 @@ def name_msg_filgen(filename):
 		if (y != '\r\n'):
 			temp = y.split("From ", 1)
 			x = temp[1]
-			x = re.sub('([\:\;][\)\|\\\/dDOoPp\(\'\"][\(\)DOo]?)', '', x)
+			emoticon = {':P',':X',':x',':p',':d',':)',':(',':D',':v','1:00','2:00','3:00','4:00','5:00','6:00','7:00'
+				,'8:00','9:00','10:00','11:00','12:00'}
+			for y in emoticon:
+				x = x.replace(y,'emoticon')
 			# x = re.sub('[?\.#_]','',x)
 			# x = re.sub('[\s]+',' ',x)
-			a.write(x + "\n")
+			a.write(x)
 		y = b.readline()
 
 
@@ -31,9 +34,15 @@ def message_only_filegen(filename):
 		if (y != '\r\n'):
 			temp = y.split(": ", 1)
 			x = temp[1]
-			x = re.sub('([\:\;][\)\|\\\/dDOoPp\(\'\"][\(\)DOo]?)','',x)
-			# x = re.sub('[?\.#_]','',x)
-			# x = re.sub('[\s]+',' ',x)
-			d.write(x + "\n")
+			# Handle emoticons coz breaking dictionary generator and time too
+			emoticon = {':P',':X',':x',':p',':d',':)',':(',':D',':v','1:00','2:00','3:00','4:00','5:00','6:00','7:00'
+				,'8:00','9:00','10:00','11:00','12:00'}
+			for y in emoticon:
+				x = x.replace(y,'emoticon')
+			# x = re.sub('([\\;][\)\|\\\/dDOoPp\(\\][\(\)DOo]?)','',x)
+			# # x = re.sub('[?\.#_]','',x)
+			# # x = re.sub('[\s]+',' ',x)
+			d.write(x)
 		y = c.readline()
 
+# + "\n"
