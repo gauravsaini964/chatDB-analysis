@@ -1,11 +1,10 @@
 from collections import Counter, defaultdict
-from pprint import pprint as pp
 from fileparser import NAME_MSG, MSG_ONLY, x ,name_msg_filgen, message_only_filegen
-import urllib
 from wordcloud import WordCloud
 import matplotlib.pyplot as plot
 import requests
-import json
+from pprint import pprint as pp
+from termcolor import colored
 
 # generate files
 name_msg_filgen(x)
@@ -16,7 +15,6 @@ MESSAGE_DICT = []
 d = defaultdict(list)
 
 
-
 def total_question_asked():
     question_mark = {'?'}
     question_count = 0
@@ -25,9 +23,7 @@ def total_question_asked():
         for line in f:
             question_count = Counter(c for line in f for c in line if c in question_mark)
 
-    print 'Total question asked in this chat: %s' % (question_count.values())
-
-
+    print colored('Total question asked in this chat: %s', 'cyan', attrs=['bold']) %(question_count.values())
 
 
 def createDictionary(filename):
@@ -43,8 +39,9 @@ def createDictionary(filename):
 
             Students.append(d.keys())
 
-    print "Total Student present in today's chat : %d" %(len(d.keys()))
-    print 'Student present today : %s' %(d.keys())
+    print colored("Total Student present in today's chat : %d", 'cyan', attrs=['bold']) %(len(d.keys()))
+    print colored('Student present today :', 'red', attrs=['bold'])
+    pp(d.keys())
 
 
 def analyze_Sentiment(filename):
@@ -58,7 +55,7 @@ def analyze_Sentiment(filename):
         data = f.read().splitlines()
         for line in range(0,len(data)):
             sentence = data[line]
-            print sentence
+            print colored('Analyzing./', 'white',attrs=['bold'])
             API_KEY = 'QcnFyRDYtKrD6Bz68BuKxE8wcCmtBd7cc7DBfJxDf2s'
             request_url = ('https://apis.paralleldots.com/sentiment?sentence1=%s&apikey=%s') % (sentence, API_KEY)
             result = requests.get(request_url).json()
@@ -67,10 +64,9 @@ def analyze_Sentiment(filename):
             elif result['sentiment'] < 0.600000:
                  negativity = negativity + 1
     if positivity > negativity:
-        print "Overall nature of meeting today was : Positive"
+        print colored("Overall nature of meeting today was : Positive" , 'cyan' ,attrs=['bold'])
     else:
-           print "Overall nature of meeting today was : Negative"
-
+        print colored("Overall nature of meeting today was : Positive", 'cyan', attrs=['bold'])
 
 
 def generate_wordcloud(filename):
@@ -84,9 +80,12 @@ def generate_wordcloud(filename):
     plot.imshow(wordcloud, interpolation="bilinear")
     plot.axis("off")
     plot.savefig('cloud.png')
-    plot.show()
+    flag = False
 
 
-# # createDictionary(NAME_MSG)
-# generate_wordcloud(MSG_ONLY)
+
+
 analyze_Sentiment(MSG_ONLY)
+total_question_asked()
+createDictionary(NAME_MSG)
+generate_wordcloud(MSG_ONLY)
