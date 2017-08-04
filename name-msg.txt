@@ -1,74 +1,119 @@
-Shubham.is.here : sir ek doubt clear karo mera
-Shubham.is.here : Varun sir?
-Acadview Instructor : Give me 5 minutes
-Ankit : hey guys
-Rahul Yadav : hii
-Ankit : emoticon
-Acadview Instructor : hi all
-Ankit : hello sir
-ankita kumari : hello sr
-Sumit Pandey : print alice['quizzes']
-Rahul Yadav : string use krro
-Rajesh : hello everyone emoticon
-Rahul Yadav : “quizzes”
-Radhika : helllo sir
-Sumit Pandey : quotes me aayega
-Sumit Pandey : print alice['quizzes'] 
-Piyush Chaturvedi : print alice["quizzes"]
-Piyush Chaturvedi : write like this
-sharique ahmed : hello sir
-sharique ahmed : whats going on
-Gaurav Thakur : hello everyone
-Piyush Chaturvedi : sir gir revise krado
-sharique ahmed : fine sir
-Gaurav Thakur : yes sir
+Ankit : done
+Vineet Chauhan : done sir
+Harshit Thakur : done sir
+Rajesh : hogya 
+Shubham.is.here : bna liya hai
+Piyush Chaturvedi : sir installed and made the account
+Rohan luthra : not done sir 
+Rahul Yadav : done
+Ankit : account nd installation
+Shubham.is.here : install bhi kr liya
+Gaurav Thakur : not done yet
+Ankit : yup
+Rajesh : done
+Rishav : account aur install dono ho gaya
+Radhik : me
+sharique ahmed : id nahi bn ra h
+sharique ahmed : login nahi hora h
+Rahul Yadav : sir mai tha
+Resham Singh : organisation name kya likhu
+Rahul Yadav : Sir i m rahul
+Rahul Yadav : i asked the question
+Sudhanshu Shekhar Singh : i have a github accountand Git Bash desktop app..
+Sudhanshu Shekhar Singh : is that all i need
+Acadview Instructor to Acadview Instructor (Privately) : start recording
+Rajesh : hello everyone
+sharique ahmed : pta nahi sir
+sharique ahmed : maine usko skip kar diya h
+Resham Singh : but sir ye hill ni ra maang ra h 
+Diksha : whts going on?
+sharique ahmed : any problem???
+Resham Singh : organization name
+Rahul Yadav : sir screen share ni ho rhi
+Gaurav Thakur : lol
+Shubham.is.here : haha.. kaun hai ye
+Rahul Yadav : kaun krr rha yeh
+Rajesh : kaun hai ye 
+Rajesh : stop doing this .....
+Rahul Yadav : sir function alredy bna rkha hai
+Sumit Pandey : doubt chal rha hai kisika ?
+Rohan luthra : kya kiya hai ye screen pe 
+Rajesh : painting ka competition nai hai yahan pr.... kaun he ye
+Piyush Chaturvedi : you have given the space between the function name and brckets
+Piyush Chaturvedi : that is the reason function is not created
+Ankit : yup right
+Ankit : space
+Ankit : srry
+Gaurav Thakur : haaha
+Ankit : mic not working
+Piyush Chaturvedi : sir i have given suggestion already
+Ankit : actually i was saying
+Rohan luthra : type krde ankit 
+Ankit : space given
+Shubham.is.here : i dont think night multiply hoga city k cost mein
+Rahul Yadav : vo cost hai
+Rahul Yadav : 1 night
+sharique ahmed : city not entered
+Rahul Yadav : for a night
+Piyush Chaturvedi : you should have multiplied it with the hotel_cost(night)either
+Shubham.is.here : night multiply nhi hoga
+Shubham.is.here : *night del karo chal jana chahiye
+Rohan luthra : sir you take look to group
+Rajesh : yes
+Shubham.is.here : yes
+Gaurav Thakur : yes
+Rahul Yadav : yes
+Diksha : ys
+Ankit : yup
+sharique ahmed : yup
+Ankita : yes sr
 Nikhil Chauhan : yes
-Radhika : yes sir
-Gaurav Thakur : no prob.
-Rishav : yes sir
-ankita kumari : dophr
-Shubham.is.here : theek hai
-Rajesh : not available
-Gaurav Thakur : 3 o clock
-Radhika : 4 o'clock
-Piyush Chaturvedi : emoticon
-Nikhil Chauhan : 3pm ?
-Sumit Pandey : 12
-sharique ahmed : 12
-Harshit Thakur : 3 pm
-Nikhil Chauhan : 12?
-Diksha : kya dophr kyaa??
-Rajesh : kal night mei nai possible sir
-Rajesh : koi baat nai i will watch tommorows video
-Radhika : yes sir 
-Harshit Thakur : 3 times sir
-Radhika : 3 time
-Rajesh : i practiced
-Nikhil Chauhan : 2 times
-Shubham.is.here : 5, 10 baar
-Rishav : 1 baar practice kiya par poora samajh nahi aaya
-Rahul Yadav : 1 time
-Piyush Chaturvedi : sir i have done it but 10th step ke bad bhot problem aa rhi hai
-Rahul Yadav : yes sir
-ankita kumari : 2 bar
-Sumit Pandey : Part of the Whole --> sir ye b krwa do abi
-Nikhil Chauhan : 12 ?
-Radhika : any time
-Shubham.is.here : subah 11 bje k baad kabhi bhi kar lo
-Rishav : yes
-Shubham.is.here : cool
-Harshit Thakur : yes sir 
-Radhika : 0k 
-Nikhil Chauhan : hmm
-ankita kumari : yes sr
-Piyush Chaturvedi : yupp
-Sumit Pandey : ok
-Sumit Pandey : Part of the Whole--> sir ye krwa do
-Sumit Pandey : codecademy
-Sumit Pandey : yes 
-Sumit Pandey : students become teacher
-Sumit Pandey : starting se
-rohan luthra : no voice 
-Rahul Yadav : check ur connection
-Rahul Yadav : cos voice is comming
-Sudhanshu Shekhar Singh : even i had a problem there
+Nikhil Chauhan : hii
+Rahul Yadav : yes
+Nikhil Chauhan : yes
+Diksha : yup
+Ankita : yes
+Piyush Chaturvedi : yes
+Ankit :  yes
+Sudhanshu Shekhar Singh : yes
+sharique ahmed : yes
+Shubham.is.here : your screen is gone
+Diksha : yup
+Ankit : yup
+Rajesh : yes
+Rohan luthra : yes
+Ankit : yup
+Ankit : uptobox
+Rajesh : shubh shubh bolo sir
+Rahul Yadav : ohhh
+Diksha : nice
+Diksha : hahhaha
+sharique ahmed : hahaha
+Ankit : hehehe tab se start kia apne bhi ..
+Radhik : humm
+sharique ahmed : sorry for u 
+sharique ahmed : hahaha
+Ankit : cool
+Ankit : like?
+Rohan luthra : y 1 should store his code on hub
+Ankit : yup
+Ankit : emoticon
+Rohan luthra : or on cloud security resons 
+Rohan luthra : yes 
+Rohan luthra : sir
+Rohan luthra : is it secure to store code on hub 
+Rohan luthra : ohk sir 
+Sumit Pandey : experimenting -  clear krna sir thoda
+Sumit Pandey : like a folder for our code
+Ankit : done
+Sudhanshu Shekhar Singh : Done
+Rajesh : done
+Piyush Chaturvedi : done
+Roshan Roy : done
+Ankita : DONE
+Ankit : done
+Harshit Thakur : donr
+Radhik : done
+Rishav : done
+Rajesh : DONE DONE
+sharique ahmed : done
