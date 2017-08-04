@@ -1,0 +1,74 @@
+20:50:29	 From Shubham.is.here : sir ek doubt clear karo mera
+20:50:59	 From Shubham.is.here : Varun sir?
+20:51:38	 From Acadview Instructor : Give me 5 minutes
+20:57:48	 From Ankit : hey guys
+20:57:56	 From Rahul Yadav : hii
+20:58:41	 From Ankit : :)
+20:59:43	 From Acadview Instructor : hi all
+21:00:10	 From Ankit : hello sir
+21:01:03	 From ankita kumari : hello sr
+21:06:28	 From Sumit Pandey : print alice['quizzes']
+21:06:39	 From Rahul Yadav : string use krro
+21:06:43	 From Rajesh : hello everyone :)
+21:06:49	 From Rahul Yadav : “quizzes”
+21:06:54	 From Radhika : helllo sir
+21:07:03	 From Sumit Pandey : quotes me aayega
+21:07:12	 From Sumit Pandey : print alice['quizzes'] 
+21:07:18	 From Piyush Chaturvedi : print alice["quizzes"]
+21:07:27	 From Piyush Chaturvedi : write like this
+21:09:13	 From sharique ahmed : hello sir
+21:09:25	 From sharique ahmed : whats going on
+21:13:59	 From Gaurav Thakur : hello everyone
+21:15:07	 From Piyush Chaturvedi : sir gir revise krado
+21:15:28	 From sharique ahmed : fine sir
+21:15:29	 From Gaurav Thakur : yes sir
+21:15:31	 From Nikhil Chauhan : yes
+21:15:32	 From Radhika : yes sir
+21:15:37	 From Gaurav Thakur : no prob.
+21:15:41	 From Rishav : yes sir
+21:15:41	 From ankita kumari : dophr
+21:15:45	 From Shubham.is.here : theek hai
+21:15:52	 From Rajesh : not available
+21:15:54	 From Gaurav Thakur : 3 o clock
+21:15:56	 From Radhika : 4 o'clock
+21:16:03	 From Piyush Chaturvedi : 3:00
+21:16:04	 From Nikhil Chauhan : 3pm ?
+21:16:07	 From Sumit Pandey : 12
+21:16:12	 From sharique ahmed : 12
+21:16:12	 From Harshit Thakur : 3 pm
+21:16:12	 From Nikhil Chauhan : 12?
+21:16:13	 From Diksha : kya dophr kyaa??
+21:16:45	 From Rajesh : kal night mei nai possible sir
+21:17:16	 From Rajesh : koi baat nai i will watch tommorows video
+21:17:19	 From Radhika : yes sir 
+21:17:30	 From Harshit Thakur : 3 times sir
+21:17:31	 From Radhika : 3 time
+21:17:34	 From Rajesh : i practiced
+21:17:35	 From Nikhil Chauhan : 2 times
+21:17:43	 From Shubham.is.here : 5, 10 baar
+21:17:44	 From Rishav : 1 baar practice kiya par poora samajh nahi aaya
+21:17:52	 From Rahul Yadav : 1 time
+21:17:56	 From Piyush Chaturvedi : sir i have done it but 10th step ke bad bhot problem aa rhi hai
+21:17:59	 From Rahul Yadav : yes sir
+21:18:03	 From ankita kumari : 2 bar
+21:19:04	 From Sumit Pandey : Part of the Whole --> sir ye b krwa do abi
+21:19:11	 From Nikhil Chauhan : 12 ?
+21:19:17	 From Radhika : any time
+21:19:20	 From Shubham.is.here : subah 11 bje k baad kabhi bhi kar lo
+21:19:21	 From Rishav : yes
+21:19:32	 From Shubham.is.here : cool
+21:19:33	 From Harshit Thakur : yes sir 
+21:19:34	 From Radhika : 0k 
+21:19:36	 From Nikhil Chauhan : hmm
+21:19:37	 From ankita kumari : yes sr
+21:19:39	 From Piyush Chaturvedi : yupp
+21:19:42	 From Sumit Pandey : ok
+21:19:57	 From Sumit Pandey : Part of the Whole--> sir ye krwa do
+21:20:07	 From Sumit Pandey : codecademy
+21:20:09	 From Sumit Pandey : yes 
+21:20:25	 From Sumit Pandey : students become teacher
+21:21:20	 From Sumit Pandey : starting se
+21:22:34	 From rohan luthra : no voice 
+21:22:53	 From Rahul Yadav : check ur connection
+21:23:13	 From Rahul Yadav : cos voice is comming
+21:25:20	 From Sudhanshu Shekhar Singh : even i had a problem there
